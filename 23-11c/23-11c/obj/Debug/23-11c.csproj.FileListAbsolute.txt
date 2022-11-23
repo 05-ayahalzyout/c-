@@ -1,0 +1,8 @@
+C:\Users\ayahi\source\repos\23-11c\23-11c\obj\Debug\23-11c.csproj.AssemblyReference.cache
+C:\Users\ayahi\source\repos\23-11c\23-11c\obj\Debug\23-11c.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayahi\source\repos\23-11c\23-11c\obj\Debug\23-11c.csproj.CoreCompileInputs.cache
+C:\Users\ayahi\source\repos\23-11c\23-11c\bin\Debug\23-11c.exe.config
+C:\Users\ayahi\source\repos\23-11c\23-11c\bin\Debug\23-11c.exe
+C:\Users\ayahi\source\repos\23-11c\23-11c\bin\Debug\23-11c.pdb
+C:\Users\ayahi\source\repos\23-11c\23-11c\obj\Debug\23-11c.exe
+C:\Users\ayahi\source\repos\23-11c\23-11c\obj\Debug\23-11c.pdb
