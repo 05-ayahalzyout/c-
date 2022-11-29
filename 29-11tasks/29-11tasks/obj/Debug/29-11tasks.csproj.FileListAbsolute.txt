@@ -1,0 +1,8 @@
+C:\Users\ayahi\source\repos\29-11tasks\29-11tasks\bin\Debug\29-11tasks.exe.config
+C:\Users\ayahi\source\repos\29-11tasks\29-11tasks\bin\Debug\29-11tasks.exe
+C:\Users\ayahi\source\repos\29-11tasks\29-11tasks\bin\Debug\29-11tasks.pdb
+C:\Users\ayahi\source\repos\29-11tasks\29-11tasks\obj\Debug\29-11tasks.csproj.AssemblyReference.cache
+C:\Users\ayahi\source\repos\29-11tasks\29-11tasks\obj\Debug\29-11tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayahi\source\repos\29-11tasks\29-11tasks\obj\Debug\29-11tasks.csproj.CoreCompileInputs.cache
+C:\Users\ayahi\source\repos\29-11tasks\29-11tasks\obj\Debug\29-11tasks.exe
+C:\Users\ayahi\source\repos\29-11tasks\29-11tasks\obj\Debug\29-11tasks.pdb
